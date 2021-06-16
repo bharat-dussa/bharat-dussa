@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Trust me I'm a Engineer.
+
+💻 Working as Web Developer.
+😄 Interested in latest technologies.
