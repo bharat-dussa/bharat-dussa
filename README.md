@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Trust me I'm a Engineer.
 
   💻 Working as Web Developer. <br />
-  😄 Interested in latest technologies. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  😄 Interested in latest technologies. <br />
   📫 bharatdussa@gmail.com 
