@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Trust me I'm a Engineer.
+### Trust me I'm a Engineer ✨.
   
-  💻 Working as Web Developer. `React + Typescript` <br />
+  💻 Working as Web Developer `React + Typescript` <br />
   😄 Interested in latest technologies. <br />
   📫 reach me at bharatdussa@gmail.com 
