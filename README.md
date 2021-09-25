@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Trust me I'm a Engineer.
-
-  💻 Working as Web Developer. <br />
+  
+  💻 Working as Web Developer. `React + Typescript` <br />
   😄 Interested in latest technologies. <br />
-  📫 bharatdussa@gmail.com 
+  📫 reach me at bharatdussa@gmail.com 
