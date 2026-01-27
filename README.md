@@ -37,7 +37,7 @@ A growing open-source library of powerful React hooks & utilities inspired by lo
 
 
 
-
+![Bharat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bharat-dussa&theme=github-compact&hide_border=true)
 
 
 
@@ -55,10 +55,5 @@ A growing open-source library of powerful React hooks & utilities inspired by lo
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bharat-dussa&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=bharat-dussa&icon=8&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
