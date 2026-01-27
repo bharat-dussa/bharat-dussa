@@ -2,7 +2,7 @@ name: Update Experience Years
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs daily at midnight UTC
+    - cron: "6 23 * * *" # runs daily at midnight UTC
   workflow_dispatch: # lets you run manually too
 
 jobs:
