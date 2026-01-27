@@ -6,7 +6,7 @@
 🌍 Exploring Web3 & Open Source
 ☕ Debugging is better with chai
 
-# 💼 Experience: <!--EXPERIENCE_START-->4+ years<!--EXPERIENCE_END-->
+# 💼 Experience: <!--EXPERIENCE_START-->5.2+ years<!--EXPERIENCE_END-->
 
 Frontend Engineer
 I build high-performance web & mobile apps with focus on:
