@@ -25,7 +25,7 @@ const bharat = {
   domain:      "Fintech — payments, auth, KYC, secure networking",
   experience:  "5.9+ years", // auto-updated below
   ownership:   ["Mobile architecture", "Networking layer", "Perf budgets", "Design docs & ADRs"],
-  learning:    ["System Design", "Backend (Go)", "DSA"],
+  learning:    ["System Design", "Backend (Nodejs)", "DSA"],
   openTo:      "Senior / Lead mobile roles",
 };
 ```
