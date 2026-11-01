@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/bharat-dussa">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=Shipping+secure+fintech+apps+used+by+real+money;React+Native+%E2%80%A2+TypeScript+%E2%80%A2+Mobile+Architecture;SSL+pinning%2C+auth+flows%2C+perf+budgets;Open+source%3A+react-smart-utils+%26+rnkit" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=Shipping+secure+fintech+apps+that+move+real+money;React+Native+%E2%80%A2+TypeScript+%E2%80%A2+Mobile+Architecture;SSL+pinning%2C+auth+flows%2C+perf+budgets;Open+source%3A+react-smart-utils+%26+rnkit" alt="typing"/>
   </a>
 </p>
 
@@ -25,7 +25,7 @@ const bharat = {
   domain:      "Fintech — payments, auth, KYC, secure networking",
   experience:  "5.9+ years", // auto-updated below
   ownership:   ["Mobile architecture", "Networking layer", "Perf budgets", "Design docs & ADRs"],
-  learning:    ["System Design", "Backend (Nodejs)", "DSA"],
+  learning:    ["System Design", "Backend (Go)", "DSA"],
   openTo:      "Senior / Lead mobile roles",
 };
 ```
@@ -57,6 +57,47 @@ const bharat = {
 
 ---
 
+## 📦 Libraries I've Built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [react-smart-utils](https://github.com/vituarvom/react-smart-utils)
+Lodash-style library of React hooks & utilities for real production problems. Also published under the scoped name [`@rsujs/core`](https://www.npmjs.com/package/@rsujs/core).
+
+<a href="https://www.npmjs.com/package/react-smart-utils"><img src="https://img.shields.io/npm/v/react-smart-utils?style=flat-square&color=24c6dc&label=npm" alt="npm version"/></a>
+<a href="https://www.npmjs.com/package/@rsujs/core"><img src="https://img.shields.io/npm/v/@rsujs/core?style=flat-square&color=302b63&label=%40rsujs%2Fcore" alt="@rsujs/core version"/></a>
+<a href="https://github.com/vituarvom/react-smart-utils"><img src="https://img.shields.io/github/stars/vituarvom/react-smart-utils?style=flat-square&color=24c6dc&label=stars" alt="stars"/></a>
+
+```bash
+npm i react-smart-utils
+```
+
+`TypeScript` `Hooks` `Tree-shakeable`
+
+</td>
+<td width="50%" valign="top">
+
+### 💀 [@rsujs/dynamic-skeleton](https://www.npmjs.com/package/@rsujs/dynamic-skeleton)
+Dynamic skeleton screens that auto-adapt to your React UI in real time — measures rendered layout and generates matching shimmer placeholders. No hand-drawn skeleton per screen.
+
+<a href="https://www.npmjs.com/package/@rsujs/dynamic-skeleton"><img src="https://img.shields.io/npm/v/@rsujs/dynamic-skeleton?style=flat-square&color=24c6dc&label=npm" alt="npm version"/></a>
+<img src="https://img.shields.io/npm/dm/@rsujs/dynamic-skeleton?style=flat-square&color=302b63" alt="downloads"/>
+
+```bash
+npm i @rsujs/dynamic-skeleton
+```
+
+`React` `Skeleton` `Shimmer` `Zero-config`
+
+</td>
+</tr>
+</table>
+
+---
+
+
 ## 🧊 3D Contribution Graph
 
 <p align="center">
@@ -66,33 +107,6 @@ const bharat = {
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
   </picture>
 </p>
-
----
-
-## 🚀 Featured Open Source
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [react-smart-utils](https://github.com/vituarvom/react-smart-utils)
-Lodash-style library of production-grade React hooks & utilities.
-
-`TypeScript` `Hooks` `Tree-shakeable`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ rnkit
-Open-source React Native dev-tooling monorepo (Turborepo).
-- **@rnkit/network** — in-app network inspector
-- **@rnkit/perf** — performance budget monitor
-
-`React Native` `Turborepo` `DX`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -106,24 +120,8 @@ Open-source React Native dev-tooling monorepo (Turborepo).
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vercel,go&theme=dark&perline=6" alt="tools"/>
 </p>
 
-<p align="center"><sub>React Native • Expo • TypeScript • Redux Toolkit • React Query • Jest • Detox • Reanimated</sub></p>
+<p align="center"><sub>React Native • Expo • TypeScript • Redux Toolkit • React Query • Jest • Reanimated</sub></p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bharat-dussa&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dussa&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="langs"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bharat-dussa&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-dussa&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity"/>
-</p>
 
 ---
 
