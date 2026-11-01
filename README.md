@@ -1,59 +1,136 @@
-# 💫 About Me:
-👋 Hey, I'm Bharat
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Bharat%20Dussa&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Senior%20React%20Native%20Engineer%20%E2%80%A2%20Fintech&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+</p>
 
-🚀 Frontend Engineer who loves turning ideas into smooth, scalable products
-⚛️ React • React Native • TypeScript
-🌍 Exploring Web3 & Open Source
-☕ Debugging is better with chai
+<p align="center">
+  <a href="https://github.com/bharat-dussa">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=Shipping+secure+fintech+apps+used+by+real+money;React+Native+%E2%80%A2+TypeScript+%E2%80%A2+Mobile+Architecture;SSL+pinning%2C+auth+flows%2C+perf+budgets;Open+source%3A+react-smart-utils+%26+rnkit" alt="typing"/>
+  </a>
+</p>
 
-# 💼 Experience: <!--EXPERIENCE_START-->5.9+ years<!--EXPERIENCE_END-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/bharat-dussa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=bharat-dussa&style=for-the-badge&color=24c6dc&label=PROFILE+VIEWS" alt="views"/>
+  <img src="https://img.shields.io/badge/Based%20in-Mumbai%20Region%2C%20IN-0f0c29?style=for-the-badge" alt="location"/>
+</p>
 
-Frontend Engineer
-I build high-performance web & mobile apps with focus on:
+---
 
-⚡ Scalable React & React Native architectures
+## ⚡ TL;DR
 
-🧠 Reusable hooks, utilities & clean component patterns
+```ts
+const bharat = {
+  role:        "Senior React Native Engineer",
+  domain:      "Fintech — payments, auth, KYC, secure networking",
+  experience:  "5.9+ years", // auto-updated below
+  ownership:   ["Mobile architecture", "Networking layer", "Perf budgets", "Design docs & ADRs"],
+  learning:    ["System Design", "Backend (Go)", "DSA"],
+  openTo:      "Senior / Lead mobile roles",
+};
+```
 
-🔐 Secure fintech-style flows (auth, APIs, data handling)
+## 💼 Experience: <!--EXPERIENCE_START-->5.9+ years<!--EXPERIENCE_END-->
 
-🎯 Performance optimization & UX polish
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🤝 Working closely with backend & product teams
+### 🏗️ What I own
+- **Mobile architecture** — scalable React Native codebases, module boundaries, shared hooks
+- **Secure networking** — SSL/TLS pinning, token refresh, retries, error normalization
+- **Fintech flows** — auth, onboarding, payments, sensitive-data handling
+- **Performance** — startup time, re-render audits, perf budgets in CI
 
-I enjoy converting messy requirements into clean, maintainable frontend systems.
+</td>
+<td width="50%" valign="top">
 
-# 🌟 Featured Project
-🧠 react-smart-utils
+### 🧭 How I work
+- Turn messy requirements into **written design docs** before code
+- Record trade-offs as **ADRs** so decisions outlive the meeting
+- Partner with backend & product on **API contracts**, not just screens
+- Mentor through **review**, not rewrites
 
-A growing open-source library of powerful React hooks & utilities inspired by lodash-style developer experience.
+</td>
+</tr>
+</table>
 
-🔹 Performance-focused
-🔹 Reusable patterns
-🔹 Built for real production problems
+---
 
-👉 https://github.com/vituarvom/react-smart-utils
+## 🧊 3D Contribution Graph
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblue.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+  </picture>
+</p>
 
+---
 
+## 🚀 Featured Open Source
 
-![Bharat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bharat-dussa&theme=github-compact&hide_border=true)
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🧠 [react-smart-utils](https://github.com/vituarvom/react-smart-utils)
+Lodash-style library of production-grade React hooks & utilities.
 
+`TypeScript` `Hooks` `Tree-shakeable`
 
+</td>
+<td width="50%" valign="top">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bharat-dussa/) 
+### 🛠️ rnkit
+Open-source React Native dev-tooling monorepo (Turborepo).
+- **@rnkit/network** — in-app network inspector
+- **@rnkit/perf** — performance budget monitor
 
+`React Native` `Turborepo` `DX`
 
+</td>
+</tr>
+</table>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
 
+## 🧰 Core Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,redux,tailwind&theme=dark&perline=6" alt="core"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple,firebase,aws,docker,githubactions&theme=dark&perline=6" alt="platform"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,vercel,go&theme=dark&perline=6" alt="tools"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bharat-dussa&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
+<p align="center"><sub>React Native • Expo • TypeScript • Redux Toolkit • React Query • Jest • Detox • Reanimated</sub></p>
 
+---
 
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bharat-dussa&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharat-dussa&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bharat-dussa&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharat-dussa&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Debugging is better with chai ☕</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
+</p>
